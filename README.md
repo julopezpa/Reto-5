@@ -75,7 +75,7 @@ Dado el centro y el radio de un c´ırculo, determinar si un punto de R2 pertene
         print("el punto pertenece al interior del circulo")
     else:
         print("el punto no pertenece al interio del circulo")
-#6
+# 6
 Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995964-3009d565-a70f-48bf-9e36-29cfdb9fe757.png)
