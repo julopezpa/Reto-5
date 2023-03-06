@@ -1,10 +1,9 @@
 # Reto-5
 estaba extraño 
-#1
+# 1
 Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995461-7c3bff73-569d-4911-9166-4cc740f5b0d2.png)
-  CODIGO
 
     #Programa para identificar si corresponde a una vocal minuscula
     n=int(input("ingrese un numero "))
@@ -20,11 +19,10 @@ Dado un número entero, determinar si ese número corresponde al código ASCII d
       print("el numero "+str(n)+" corresponde a la vocal "+ chr(n)+" minuscula")
     else:
       print("el numero "+str(n)+" no corresponde a ninguna vocal minuscula, ya que es el caracter "+ chr(n))
-#2
+# 2
 Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995588-fc0fd4c8-5ac9-4963-8eb2-51ccf67b18e0.png)
-CODIGO
 
     #Programa para identificar si una cadena de caracter de longitud 1, es par o impar (ASCII)
     n=input("ingrese un caracter de longitud 1")
@@ -34,7 +32,7 @@ CODIGO
       print("el caracter "+str(n)+" es par")
     else :
       print("el caracter "+str(n)+" es impar")
-#3
+# 3
 Dado un carácter, construya un programa en Python para determinar si el carácter es un d´ıgito o no.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995693-ffdd6549-6ea8-4b16-bf69-65e0e45e27bf.png)
@@ -49,7 +47,7 @@ Dado un carácter, construya un programa en Python para determinar si el caráct
         print("el caracter "+str(n)+" no es un digito/numero")
     else :
         print("el caracter "+str(n)+" es un digito/numero")
-#4
+# 4
 Dado un número real x, construya una función que permita determinar si el número es positivo, negativo o cero.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995767-a6671b64-ca2f-4592-b760-dd351bbb71f9.png)
@@ -62,7 +60,7 @@ Dado un número real x, construya una función que permita determinar si el núm
         print("El número x es negativo")
     else:
         print("El número x es el neutro para la suma")
-#5
+# 5
 Dado el centro y el radio de un c´ırculo, determinar si un punto de R2 pertenece o no al interior del c´ırculo.
 
 ![image](https://user-images.githubusercontent.com/124606636/222995903-3ee35d70-c789-4dd3-9ddd-ca40cc649451.png)
@@ -93,5 +91,6 @@ Dadas tres longitudes positivas, determinar si con esas longitudes se puede cons
     else:
         print("con esas longitudes no se puede construir un triangulo ")
         
-#Meme random 
+# meme random 
+
 ![image](https://user-images.githubusercontent.com/124606636/222996189-41d36a88-b77e-4ded-930f-66846c69ea41.png)
